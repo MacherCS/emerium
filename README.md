@@ -1,1 +1,3 @@
-# emerium
+# Emerium
+
+Coming soon.
